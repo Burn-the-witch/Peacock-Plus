@@ -6,4 +6,4 @@ Legacy content restoration and Progression clean up with QOL changes.
 
 ---
 
-`BurnTheWitch.PeacockPlus` v1.1.0, by Burn, the witch. This README was automatically generated from the mod's manifest.
+`BurnTheWitch.PeacockPlus` v1.2.0, by Burn, the witch. This README was automatically generated from the mod's manifest.
