@@ -21,7 +21,7 @@
 		},
 		"Rarity": "common"
 	},
-    "PROP_MELEE_XMAS_SHOVEL": {
+	"PROP_MELEE_XMAS_SHOVEL": {
 		"Id": "PROP_MELEE_XMAS_SHOVEL",
 		"Guid": "09cd0b7c-4e79-481b-8cfc-f535f2d6741c",
 		"Type": "weapon",
@@ -43,11 +43,11 @@
 		},
 		"Rarity": "common"
 	},
-    "PROP_MELEE_XMAS_CROWBAR": {
+	"PROP_MELEE_XMAS_CROWBAR": {
 		"Id": "PROP_MELEE_XMAS_CROWBAR",
 		"Guid": "09cd0b7c-4e79-481b-8cfc-f635f2d6741c",
 		"Type": "gear",
-        "Subtype": "tool",
+		"Subtype": "tool",
 		"ImageId": "",
 		"RMTPrice": 149,
 		"GamePrice": 149,
@@ -65,7 +65,7 @@
 		},
 		"Rarity": "common"
 	},
-    "PROP_MELEE_XMAS_AXE": {
+	"PROP_MELEE_XMAS_AXE": {
 		"Id": "PROP_MELEE_XMAS_AXE",
 		"Guid": "09cd0b7c-4e79-481b-8cfc-f435f2d6741c",
 		"Type": "weapon",
@@ -87,7 +87,7 @@
 		},
 		"Rarity": "common"
 	},
-    "PROP_MELEE_XMAS_FIREPOKER": {
+	"PROP_MELEE_XMAS_FIREPOKER": {
 		"Id": "PROP_MELEE_XMAS_FIREPOKER",
 		"Guid": "a1495dbf-4ceb-4109-85bd-0fa43bd654c6",
 		"Type": "weapon",
