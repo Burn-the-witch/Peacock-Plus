@@ -6815,7 +6815,7 @@ controller.challengeService.registerChallenge(
                     // Since it's an example, challenge will be finished if you kill anyone.
                     Scope: "hit",
                    "Constants": {
-                            "Goal": 15
+                            "Goal": 17
                         },
         "Context": {
                             "Count": 0
@@ -6884,7 +6884,7 @@ controller.challengeService.registerChallenge(
                     // Since it's an example, challenge will be finished if you kill anyone.
                     Scope: "hit",
                    "Constants": {
-                            "Goal": 17
+                            "Goal": 19
                         },
         "Context": {
                             "Count": 0
@@ -6940,13 +6940,13 @@ controller.challengeService.registerChallenge(
             OrderIndex: 4.1,
             Challenges: [...MasterAssassinChallengePack],
         }
-       // controller.challengeService.challengePacks.set(MasterAssassinChallengePackGroup.CategoryId, {
-        //    Name: MasterAssassinChallengePackGroup.Name,
-          //  Description: MasterAssassinChallengePackGroup.Description,
-          //  GameVersions: ["h3"],
-          //  Image: MasterAssassinChallengePackGroup.Image,
-         //  Icon: "challenge_category_feats",
-       // })
+       controller.challengeService.challengePacks.set(MasterAssassinChallengePackGroup.CategoryId, {
+        Name: MasterAssassinChallengePackGroup.Name,
+          Description: MasterAssassinChallengePackGroup.Description,
+           GameVersions: ["h3"],
+           Image: MasterAssassinChallengePackGroup.Image,
+          Icon: "challenge_category_feats",
+       })
         controller.challengeService.registerGroup(MasterAssassinChallengePackGroup, "GLOBAL_MASTERASS", "h3")
 
         controller.challengeService.registerChallengeList(

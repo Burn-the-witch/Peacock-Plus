@@ -9,7 +9,7 @@
 	"frameworkVersion": "2.15.1",
 	"contentFolders": ["legacychallengepacks/content"],
 			"blobsFolders": ["legacychallengepacks/blobs"],
-			"peacockPlugins": ["3levelescalations/3levelescalations.plugin.js","legacychallengepacks/legacychallenges.plugin.js","legacysuitsmastery/legacysuitsmastery.plugin.js","begonefeatured/boolivecontent.plugin.js"],
+			"peacockPlugins": ["begonefeatured/boolivecontent.plugin.js","3levelescalations/3levelescalations.plugin.js","legacychallengepacks/legacychallenges.plugin.js","legacysuitsmastery/legacysuitsmastery.plugin.js"],
 	"localisation": {
 		"english": {
 			"firearms_cobra_sr": "Sieger 300 Cobra",
