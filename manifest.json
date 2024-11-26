@@ -1,15 +1,18 @@
 {
-	"version": "1.0.8",
+	"version": "1.3.0",
 	"id": "BurnTheWitch.PeacockPlus",
 	"name": "Peacock Plus",
 	"description": "Legacy content restoration and Progression clean up with QOL changes.",
-	"authors": [
-		"Burn, the witch"
-	],
-	"frameworkVersion": "2.15.1",
+	"authors": ["Burn, the witch"],
+	"frameworkVersion": "2.33.20",
 	"contentFolders": ["legacychallengepacks/content"],
-			"blobsFolders": ["legacychallengepacks/blobs"],
-			"peacockPlugins": ["begonefeatured/boolivecontent.plugin.js","3levelescalations/3levelescalations.plugin.js","legacychallengepacks/legacychallenges.plugin.js","legacysuitsmastery/legacysuitsmastery.plugin.js"],
+	"blobsFolders": ["legacychallengepacks/blobs"],
+	"peacockPlugins": [
+		"begonefeatured/boolivecontent.plugin.js",
+		"3levelescalations/3levelescalations.plugin.js",
+		"legacychallengepacks/legacychallenges.plugin.js",
+		"legacysuitsmastery/legacysuitsmastery.plugin.js"
+	],
 	"localisation": {
 		"english": {
 			"firearms_cobra_sr": "Sieger 300 Cobra",
@@ -52,5 +55,6 @@
 			"UI_MENU_PAGE_PROFILE_CHALLENGES_CATEGORY_PACK_SECRET_SANTA": "Secret Santa",
 			"UI_CHALLENGES_NOEL_MASTER_SANTA_DESC_2": "Complete all challenges in the 'Secret Santa' Challenge Pack."
 		}
-	}
+	},
+	"updateCheck": "https://github.com/Burn-the-witch/Peacock-Plus/releases/latest/download/updates.json"
 }
